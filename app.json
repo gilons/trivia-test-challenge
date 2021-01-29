@@ -1,0 +1,12 @@
+{
+  "name": "triviaGameCodeChallenge",
+  "displayName": "triviaGameCodeChallenge",
+  "expo": {
+    "name": "triviaGameCodeChallenge",
+    "slug": "triviaGameCodeChallenge",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
